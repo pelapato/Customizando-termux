@@ -75,5 +75,5 @@
 <a href="https://github.com/pelapato"><img title="Github" src="https://img.shields.io/badge/H4Ck3R-Raj-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/atilon.pereira)
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://pelapato.github.io/)
-<a href="https://rebrand.ly/7elzgww"><img title="YouTube" src="https://img.shields.io/badge/YouTube-TinhoDevBr-eed?style=for-the-badge&logo=Youtube"></a>
+<a href="https://youtube.com/@tinhodev?si=sKT0E4GQhXnKgTpS"><img title="YouTube" src="https://img.shields.io/badge/YouTube-TinhoDevBr-eed?style=for-the-badge&logo=Youtube"></a>
 
