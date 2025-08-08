@@ -97,7 +97,7 @@ banner ( ) {
                                                                                                                                                                                                                                   }
     
                                  selection () {
-                                            cd ~/Termux-os
+                                            cd ~/
                                             echo -e -n "\e[1;96m Choose\e[1;96m Option : \e[0m"
                                             read a
                                             case $a in
