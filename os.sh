@@ -12,16 +12,16 @@ echo -e " \e[91m                                                   ____      ___
 echo -e " \e[91m                                                  / __ \    / ____\ " 
 echo -e " \e[96m                                                 / /  \ \  ( (___   " 
 echo -e " \e[96m                                                ( ()  () )  \___ \  " 
-echo -e " \e[1;91m Youtube\e[96m / \e[100;97myoutube.com/h4ck3r0\e[0;31m                  ( ()  () )      ) )" 
-echo -e " \e[1;91m Github\e[96m /\e[1;93m H4Ck3R0                                \ \__/ /   ___/ /"  
-echo -e " \e[1;91m Telegram\e[1;96m /\e[1;92m H4Ck3R_0                              \____/   /____/"    
+echo -e " \e[1;91m Youtube\e[96m / \e[100;97myoutube.com/TinhoDevBr\e[0;31m                  ( ()  () )      ) )" 
+echo -e " \e[1;91m Github\e[96m /\e[1;93m TinhoDevBr                                \ \__/ /   ___/ /"  
+echo -e " \e[1;91m Telegram\e[1;96m /\e[1;92m TinhoDevBr                             \____/   /____/"    
 echo ""
 
 banner ( ) {
                   
                   
                   printf ""
-                  echo -e "\e[1;31m  [\e[32m√\e[31m] \e[1;91m by \e[1;36mRaj Aryan \e[93m/ \e[100;92myoutube.com/h4ck3r0\e[0m"
+                  echo -e "\e[1;31m  [\e[32m√\e[31m] \e[1;91m by \e[1;36mTinho DevBr \e[93m/ \e[100;92myoutube.com/TinhoDevBr\e[0m"
                   }
 
                   wr  ( )  {
